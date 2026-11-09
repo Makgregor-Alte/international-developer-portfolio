@@ -12,3 +12,9 @@
 @media(max-width:800px) and (min-width:601px){html[lang=en] .hero h1{font-size:46px}}
 @media(max-width:600px){.hero h1{font-size:clamp(46px,15vw,81px)}html[lang=en] .hero h1{font-size:clamp(39px,12vw,69px)}}
 @media(max-width:360px){.hero-buttons{gap:18px}.hero-buttons .button{gap:16px;padding:12px 14px;font-size:11px}.hero-buttons .button>span:first-child,.hero-buttons .text-link{white-space:nowrap}.hero-buttons .text-link{font-size:11px;gap:8px}}
+
+.asterisk-icon {
+  display: block;
+  width: 1em;
+  height: 1em;
+}
